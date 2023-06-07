@@ -1259,3 +1259,27 @@ java.lang.IllegalStateException: null is not part of a compilation unit or class
 
 !ENTRY Java Practice 1 0 2023-06-07 16:27:45.637
 !MESSAGE Project oop-interface was imported into workspace.
+
+!ENTRY Java Practice 1 0 2023-06-07 18:23:14.299
+!MESSAGE Project oop-static was imported into workspace.
+
+!ENTRY Java Practice 1 0 2023-06-07 18:30:57.581
+!MESSAGE Project oop-package was imported into workspace.
+
+!ENTRY Java Practice 1 0 2023-06-07 19:28:23.652
+!MESSAGE Project core-stringbuilder was imported into workspace.
+
+!ENTRY Java Practice 1 0 2023-06-07 19:43:16.015
+!MESSAGE Project core-stringjoiner was imported into workspace.
+
+!ENTRY Java Practice 1 0 2023-06-07 21:01:41.878
+!MESSAGE Project exception-catch was imported into workspace.
+
+!ENTRY Java Practice 1 0 2023-06-07 21:14:39.584
+!MESSAGE Project exception-throw was imported into workspace.
+
+!ENTRY Java Practice 1 0 2023-06-07 21:24:22.767
+!MESSAGE Project exception-custom was imported into workspace.
+
+!ENTRY Java Practice 1 0 2023-06-07 21:42:54.516
+!MESSAGE Project logging-jdk was imported into workspace.
